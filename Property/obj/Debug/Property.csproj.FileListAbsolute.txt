@@ -1,0 +1,5 @@
+M:\Programming\C#\MyLibs\Property\Property\Property\bin\Debug\Property.dll
+M:\Programming\C#\MyLibs\Property\Property\Property\bin\Debug\Property.pdb
+M:\Programming\C#\MyLibs\Property\Property\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+M:\Programming\C#\MyLibs\Property\Property\Property\obj\Debug\Property.dll
+M:\Programming\C#\MyLibs\Property\Property\Property\obj\Debug\Property.pdb
